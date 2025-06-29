@@ -2,4 +2,4 @@
 
 # Mock Reddit 02 ( with React )
 
-## second version of mock reddit web app with REAC
+## second version of mock reddit web app with REACT
